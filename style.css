@@ -1,0 +1,9 @@
+h1{
+    border: 2px solid lightblue;
+    padding: 10px;
+    color: tomato;
+}
+p{
+    font-size: 20px;
+    color: gray;
+}
